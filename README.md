@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%" rules="none" >
+<table><tr><td valign="top" width="40%" rules="none" >
 
 
 
@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
 
 
 
@@ -46,15 +46,15 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="40%">
 
 
 
 ### DevOps  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 </div>
 
 </td></tr></table>  
@@ -79,9 +79,6 @@
 <br/>
 ## Spotify
 <div align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true) >
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
-</div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
 
