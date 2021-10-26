@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="40%" rules="none" >
+<table><tr><td valign="top" width="33%" rules="none" >
 
 
 
@@ -34,19 +34,19 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="33%">
 
 
 
 ### Backend  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
-</td><td valign="top" width="40%">
+</td><td valign="top" width="33%">
 
 
 
@@ -77,15 +77,13 @@
   
 
 <br/>
-## Spotify
-<div align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true) >
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
+<div align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true) >
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gabrigarrido&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=gabrigarrido&&style=flat-square&color=brightgreen" align="center" />
 </div>  
   
 
