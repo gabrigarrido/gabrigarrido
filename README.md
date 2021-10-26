@@ -38,7 +38,7 @@
 
 
 
-### Backend  
+<div align="center" ### Backend  />
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" />  
@@ -52,7 +52,7 @@
 
 ### DevOps  
 <div>  
-<img style="margin: 100px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />  
+<img style="margin-left: 30px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="60" />  
 </div>
