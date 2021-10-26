@@ -40,10 +40,10 @@
 
 ### Backend  
 <div align="center">  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 50px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -78,7 +78,10 @@
 
 <br/>
 
-<div align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true) >
+<div align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
+
 </div>
 
 <br/>  
