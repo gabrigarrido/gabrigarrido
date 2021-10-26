@@ -79,9 +79,11 @@
 <br/>
 
 <div align="center" [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)>
-
   
- [[https://spotify-github-profile.vercel.app/api/view.svg?uid=kaxkata&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)]]
+  
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=default&bar_color=ffa300&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
+
+
 
 </div>
 
