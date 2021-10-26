@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table rules="none" style="border-style:none;"><tr><td valign="top" width="33%" >
+<table"><tr><td valign="top" width="33%" >
 
 
 
@@ -38,7 +38,7 @@
 
 
 
-  <div align="center" style="font-weight:bold"> DevOps </div>
+### Backend
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" />  
