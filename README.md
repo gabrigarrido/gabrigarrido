@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table"><tr><td valign="top" width="33%" >
+<><tr><td valign="top" width="33%" >
 
 
 
@@ -51,8 +51,8 @@
 
 
 ### DevOps  
-<div>  
-<img style="margin-left: 30px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />  
+<div align="center">  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="60" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="60" />  
 </div>
