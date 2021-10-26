@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%" rules="none" >
 
 
 
@@ -64,7 +64,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://www.linkedin.com/in/gabriel-r-567505136/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/https://github.com/gabrigarrido" target="_blank">
@@ -77,10 +77,9 @@
   
 
 <br/>  
-
-<div [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)/></div>  
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
+</div>
 
 <br/>  
 
@@ -88,10 +87,4 @@
 <img src="https://komarev.com/ghpvc/?username=gabrigarrido&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
 
