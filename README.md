@@ -13,7 +13,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrigarrido&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=gabrigarrido&theme=buefy&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
@@ -78,7 +78,9 @@
 
 <br/>  
 
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kaxkata&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false" /></div>  
+<div [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)/></div>  
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
 
 <br/>  
 
