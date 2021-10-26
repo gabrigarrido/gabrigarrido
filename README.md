@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<table rules="none" style="border-style:none;"><tr><td valign="top" width="50%" >
+<table rules="none" style="border-style:none;"><tr><td valign="top" width="33%" >
 
 
 
@@ -46,7 +46,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="60" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
