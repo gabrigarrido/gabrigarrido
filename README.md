@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -46,7 +46,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -78,7 +78,7 @@
 
 <br/>  
 <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
+(https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&cover_image=true&theme=novatorem&bar_color=ff00a4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kaxkata&redirect=true)
 </div>
 
 <br/>  
