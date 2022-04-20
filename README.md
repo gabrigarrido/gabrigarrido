@@ -3,10 +3,9 @@
 ### <div align="center">I'm Gabriel, an independent programming and Linux student 👨‍💻 since 2019 🚀</div>  
   
 
-- 🔭 I’m currently studying on [BlueEdTech]()  
-  
+ 
 
-- 🌱 I’m currently learning Node.js and React  
+- 🌱 I’m currently learning Node.js, React and UX  
   
 
 <br/>  
